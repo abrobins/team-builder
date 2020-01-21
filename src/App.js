@@ -8,6 +8,7 @@ function App() {
     {
       id: 1,
       name: "Blair Robinson",
+      email: "abr@abrsolutions.com",
       position: "Web developer"
     }
   ]);
